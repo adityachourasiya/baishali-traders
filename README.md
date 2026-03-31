@@ -1,0 +1,24 @@
+# Baishali Traders - Water Delivery Website 💧
+
+A modern, high-converting, mobile-first website for **Baishali Traders**, a local 20-liter drinking water supply company.
+
+## 🚀 Live Demo
+*(Once your GitHub Pages is live, you can edit this file and paste your `https://your-username.github.io/baishali-traders/` link here!)*
+
+## 🛠️ Built With
+* **HTML5** - Semantic markup
+* **Tailwind CSS** (via CDN) - For fast, responsive styling and layout
+* **FontAwesome** - For clean UI icons
+* **Google Fonts** - Inter typography
+
+## 🌟 Features
+* **Mobile-First Design**: Optimized for users ordering via smartphones.
+* **Sticky CTA Buttons**: Always-visible WhatsApp and Phone Call buttons for maximum lead generation.
+* **Subscription Pricing Table**: Clear comparison of one-time, monthly, and commercial plans.
+* **Quick Order Form**: Simple, no-login required form for fast ordering.
+
+## ⚙️ How to Host This on GitHub Pages (Free)
+1. Go to your repository settings in GitHub.
+2. Click on **Pages** in the left sidebar.
+3. Under "Build and deployment", set the source branch to `main`.
+4. Click **Save**. Wait 2 minutes, and your site will be live!
